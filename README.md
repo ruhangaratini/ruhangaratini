@@ -8,9 +8,9 @@
 
 ### 🚀 About me
 
-- 💼 Software developer specialized in **Flutter**, **Node.js**, **Express.js**, **TypeScript**, and **PostgreSQL**
-- 🗄️ Experienced with **relational databases** (MySQL, Oracle) and PL/SQL
-- 🎓 Currently studying **Analysis and Systems Development** at **IFSP - Boituva**
+- 💼 Software developer specialized in **Flutter**, **Node.js** and **TypeScript**
+- 🗄️ Experienced with **relational databases** (MySQL, Oracle, PostgreSQL) and PL/SQL
+- 🎓 Currently studying **Analysis and Systems Development** at **IFSP - Boituva** (2023 - 2025)
 
 ---
 
