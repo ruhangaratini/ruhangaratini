@@ -34,6 +34,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [`deal-wave-app`](https://github.com/ruhangaratini/deal-wave-app) | **Flutter** web project for managing orders, products, customers and reports, using **clean architecture** and **clean code** |
 | [`mindflip-api`](https://github.com/RenanYMartins/MindFlipAPI) | Group project: REST API for flashcards developed for the **Programming Techniques II** course, using **Node.js**, **Express.js**, **TypeScript**, and **PostgreSQL**, built with modular architecture and SOLID principles |
 | [`library-management`](https://github.com/ruhangaratini/PWEB-Projeto-II) | REST API for library management developed for the **Web Programming** course, using **Node.js**, **Express.js**, **TypeScript**, and **MySQL** |
 | [`library-management-java`](https://github.com/ruhangaratini/POO-Biblioteca) | Library management system developed in **Java** for the **Object-Oriented Programming** course. First experience with Java and Spring Boot |
